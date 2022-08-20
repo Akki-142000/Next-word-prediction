@@ -1,0 +1,2 @@
+# Next-word-prediction
+Word prediction is an interesting concept that requires a computer to emulate the thinking aspect of the human brain to predict the next most suitable word while typing a sentence. It would reduce human effort and improve the sentence itself in terms of grammar, syntax and make it look more professional and concise. The words can be formal as well as informal depending on the context it's being used. It is observed that informal words prevail over the other due to its frequent occurrence.
